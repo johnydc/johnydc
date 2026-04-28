@@ -4,14 +4,16 @@ Aspiring Data Scientist @ MSU | SQL, Python, Git, repdroducible workflows, docum
 
 ## About
 
-Building end-to-end data pipelines for business problems. Coursework in modern tools based on industry needs.
+Data engineer focused on building end-to-end pipelines that solve real-world business problems. I leverage modern, industry-standard tools to design efficient, scalable data solutions, backed by a strong foundation of specialized coursework.
 
 You can find more details one my [portfolio page](https://johnydc.github.io/portfolio-repo/).
 
 ## Featured Projects
 
-- SQL analytics notebook (link to pinned repo)
-- Python ETL pipeline (link to pinned repo)
+- [Amazon Web Services Exploration](https://github.com/johnydc/aws-nyc311-delajona.git)
+- [SQL Analytics](https://github.com/johnydc/cmse492-hw02-delajona.git)
+- [Detroit Tigers Home Run Predictor](https://github.com/johnydc/Tigers-Home_Runs.git)
+- [Activity Tracker](https://github.com/johnydc/Activity-Tracker.git)
 
 ## Skills
 
@@ -21,7 +23,7 @@ You can find more details one my [portfolio page](https://johnydc.github.io/port
 
 ## Connect
 
-[LinkedIn](LINK) | [Email](mailto:you@msu.edu)
+[Email](mailto:you@msu.edu) |
 
 <!--
 **johnydc/johnydc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
