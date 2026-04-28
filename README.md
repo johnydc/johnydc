@@ -26,7 +26,7 @@ You can find more details one my [portfolio page](https://johnydc.github.io/).
 ## Connect
 
 📧 Email: [delajona@msu.edu](mailto:delajona@msu.edu)  
-📞 Phone: (123) 456-7890
+📞 Phone: (734) 664-1743
 
 <!--
 **johnydc/johnydc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
