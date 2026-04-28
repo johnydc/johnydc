@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Jonathan Dela Cruz
+# Hi there 👋! I'm Jonathan Dela Cruz
 
 Aspiring Data Scientist @ MSU | SQL, Python, Git, repdroducible workflows, documentation
 
