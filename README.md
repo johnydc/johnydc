@@ -25,7 +25,7 @@ You can find more details one my [portfolio page](https://johnydc.github.io/).
 
 ## Connect
 
-📧 Email: [delajona@msu.edu](mailto:delajona@msu.edu)
+📧 Email: [delajona@msu.edu](mailto:delajona@msu.edu)  
 📞 Phone: (123) 456-7890
 
 <!--
