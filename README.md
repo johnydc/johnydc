@@ -8,7 +8,7 @@ Aspiring Data Scientist @ MSU | SQL, Python, Git, repdroducible workflows, docum
 
 Data engineer focused on building end-to-end pipelines that solve real-world business problems. I leverage modern, industry-standard tools to design efficient, scalable data solutions, backed by a strong foundation of specialized coursework.
 
-You can find more details one my [portfolio page](https://johnydc.github.io/portfolio-repo/).
+You can find more details one my [portfolio page](https://johnydc.github.io/).
 
 ## Featured Projects
 
